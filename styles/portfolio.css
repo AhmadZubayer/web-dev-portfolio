@@ -43,6 +43,9 @@ nav li a{
 .dark2{
     color: #474747 ;
 }
+.dark3{
+    color: #757575
+}
 .sectionTitle{
     font-size: 35px;
     font-weight: bold;
@@ -120,6 +123,25 @@ main section{
     padding: 30px;
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.resumeContainer{
+    display: flex;
+    gap: 24px ;
+}
+.expSubtitle{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.expDescription{
+
+}
+.resume hr{
+    margin: 30px 5px ;
+}
+.resumeDownloadCV{
+    margin-top: 50px;
 }
 
 
